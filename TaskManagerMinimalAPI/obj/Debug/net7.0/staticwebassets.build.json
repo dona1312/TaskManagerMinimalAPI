@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0KRZ+KLpQPjPrzgkM/PfhMQ8noe2HJV9vXjxZ/NTauA=",
+  "Source": "TaskManagerMinimalAPI",
+  "BasePath": "_content/TaskManagerMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
